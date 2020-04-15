@@ -1,1 +1,1 @@
-# QWidgetDemo
+# QWidgetExample
